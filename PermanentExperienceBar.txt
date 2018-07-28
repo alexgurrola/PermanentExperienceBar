@@ -1,0 +1,10 @@
+## Title: Permanent Experience Bar
+## Description: Keeps your Experience Bar there, permanently.
+## APIVersion: 100023
+## Version: 1.0
+## SavedVariables: PermanentExperienceBarData
+## Author: Positron
+## OptionalDependsOn: LibStub
+
+Libs/LibStub/LibStub.lua
+PermanentExperienceBar.lua
